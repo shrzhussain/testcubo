@@ -10,6 +10,11 @@ namespace WebApplication1
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public double salary { get; set; }
+
+        public string getFullName()
+        {
+            return "Shiraz Hussain";
+        }
         
     }
 
