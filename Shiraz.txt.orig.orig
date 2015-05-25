@@ -1,0 +1,20 @@
+This is mine.
+NEW line.
+Shiraz Edited
+Not pushed yet
+Murad Commit.
+Test NEW
+
+Usama Test
+<<<<<<< HEAD
+
+Latesst change dont change pls
+=======
+Usama test 2
+<<<<<<< HEAD
+
+=======
+Latesst change dont change pls
+>>>>>>> 9cf0a46e4816f510c191f78c768c2ad3b422a58f
+16th Line
+>>>>>>> 8152ba0894a0e08fd16b351b5e110961881d1bd9
