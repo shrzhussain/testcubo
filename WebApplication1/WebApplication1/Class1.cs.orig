@@ -10,18 +10,16 @@ namespace WebApplication1
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public double salary { get; set; }
-<<<<<<< HEAD
-
-        public string getFullName()
-        {
-            return "Shiraz Hussain";
-=======
         public int Age { get; set; }
 
         public int getAge()
         {
             return 20;
->>>>>>> origin/Sprint-1
+        }
+
+        public string getFullName()
+        {
+            return "Shiraz Hussain";
         }
         
     }
