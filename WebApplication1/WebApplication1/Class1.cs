@@ -21,6 +21,11 @@ namespace WebApplication1
         {
             return "Shiraz Hussain";
         }
+
+        public string getSalary()
+        {
+            return "20";
+        }
         
     }
 
